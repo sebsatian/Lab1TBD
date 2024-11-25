@@ -6,7 +6,6 @@ Laboratorio 1 Taller Base de Datos.
 ## DataBase
 - Crear la base de datos en PostgreSQL (pgAdmin 4) con el nombre de "Lab1TBD":
       - En "\Backend\src\main\resources\datos" encontrarás el script "createDB.sql" para crear la base de datos.
-      
       - Ejecutar la primera linea como una query en pgAdmin 4 (o directamente usar la intefaz de usuario para crearla con el nombre especificado).
       - Ejecutar el resto del script "createDB.sql" como query dentro de la base de datos "Lab1TBD" creada.
       - En "\Backend\src\main\resources\datos" encontrarás el script "functions.sql" para la crear los triggers.
