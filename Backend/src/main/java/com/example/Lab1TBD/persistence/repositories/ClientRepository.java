@@ -12,6 +12,5 @@ public interface ClientRepository {
     void deleteClientById(Long id);
 
     void logUserLogin(Long userId);
-
     void logUserRegistration(Long userId);
 }
